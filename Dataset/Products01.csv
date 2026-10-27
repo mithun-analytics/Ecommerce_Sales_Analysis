@@ -1,0 +1,241 @@
+Product_ID,Product_Name,Category_ID,Brand,Cost_Price,Selling_Price,Stock
+1,Novara Sports Cap,2,Novara,14616.13,17397.18,223
+2,TrueValue Cooking Oil 1L,4,TrueValue,9097.27,14650.23,304
+3,Zylo Mystery Thriller,7,Zylo,9530.14,16560.15,230
+4,TrueValue Puzzle 1000pc,8,TrueValue,8317.91,11907.67,95
+5,Pulse Self-Help Book,7,Pulse,9298.31,16258.48,365
+6,VistaCore Women's Kurta,2,VistaCore,2355.6,3966.26,324
+7,EcoLife Wall Clock,3,EcoLife,4784.34,5884.32,2
+8,TrueValue Badminton Racket,5,TrueValue,11432.13,14023.49,44
+9,MaxPro Curtain Set,3,MaxPro,8376.93,12852.98,52
+10,TrueValue Bluetooth Headphones,1,TrueValue,8335.59,13317.72,401
+11,Zylo Hair Serum,6,Zylo,4413.12,6358.64,43
+12,Bright Home Breakfast Cereal,4,Bright Home,2585.26,3711.27,71
+13,VistaCore Resistance Bands,5,VistaCore,7422.2,8887.72,222
+14,VistaCore Skipping Rope,5,VistaCore,7289.26,8803.17,128
+15,Solace Coffee Powder,4,Solace,9269.2,13842.59,69
+16,EcoLife Yoga Mat,5,EcoLife,5016.65,8102.61,411
+17,TrueValue Face Mask Pack,6,TrueValue,6487.71,11468.01,333
+18,TrueValue Mixer Grinder,3,TrueValue,9068.01,15156.9,245
+19,EcoLife Body Lotion,6,EcoLife,14532.44,19888.9,355
+20,Pulse Educational Kit,8,Pulse,3674.24,5261.66,418
+21,Nexova Mystery Thriller,7,Nexova,13984.4,18177.62,279
+22,Pulse Air Purifier,3,Pulse,8273.98,15428.93,236
+23,Pulse Coffee Powder,4,Pulse,4405.4,7355.37,419
+24,UrbanEdge Business Strategy Book,7,UrbanEdge,9518.37,12673.86,337
+25,EcoLife Wall Clock,3,EcoLife,11846.7,14280.89,306
+26,EcoLife Educational Kit,8,EcoLife,8038.79,14812.45,445
+27,Zylo Comic Book,7,Zylo,11871.28,16853.03,458
+28,Pulse Women's Kurta,2,Pulse,3761.05,6200.17,85
+29,Kraftex Portable Speaker,1,Kraftex,10178.2,14755.47,385
+30,Nexova Hair Serum,6,Nexova,207.69,279.15,261
+31,TrueValue Coffee Powder,4,TrueValue,5897.46,10198.22,301
+32,Zylo Water Bottle,3,Zylo,7267.43,9967.82,471
+33,Gritline Women's Kurta,2,Gritline,14113.11,17729.68,159
+34,Pulse Face Mask Pack,6,Pulse,3142.67,4752.33,243
+35,Novara Winter Jacket,2,Novara,10466.61,14540.03,153
+36,Novara External Hard Drive,1,Novara,1770.52,3163.72,331
+37,Pulse Handbag,2,Pulse,2507.09,4733.2,124
+38,UrbanEdge Dinner Set,3,UrbanEdge,4998.3,7346.39,236
+39,Kraftex Instant Noodles,4,Kraftex,2807.55,4577.31,221
+40,Novara Fiction Novel,7,Novara,9230.9,11981.65,303
+41,Zylo Poetry Collection,7,Zylo,10585.8,13807.47,385
+42,Nexova Sunglasses,2,Nexova,12002.56,18635.98,187
+43,MaxPro Lipstick,6,MaxPro,1753.63,2898.8,250
+44,EcoLife Beard Trimmer,6,EcoLife,9189.06,14612.94,178
+45,Solace Face Mask Pack,6,Solace,2629.29,4351.98,409
+46,Solace Treadmill,5,Solace,1317.04,1646.91,60
+47,Nexova Almonds 500g,4,Nexova,2786.52,4653.7,261
+48,Solace Poetry Collection,7,Solace,2111.12,3035.33,95
+49,Novara Doll House,8,Novara,13791.46,25486.91,88
+50,VistaCore Cushion Cover,3,VistaCore,2147.43,2976.2,230
+51,TrueValue Router,1,TrueValue,14280.04,21612.22,99
+52,Bright Home Comic Book,7,Bright Home,9813.39,14296.64,251
+53,MaxPro Business Strategy Book,7,MaxPro,2550.44,4014.52,407
+54,Zylo Almonds 500g,4,Zylo,4159.05,6459.86,86
+55,Novara Educational Kit,8,Novara,11599.59,17648.6,261
+56,Nexova Sunglasses,2,Nexova,4054.94,6314.88,187
+57,Novara External Hard Drive,1,Novara,6648.43,8735.42,217
+58,Gritline Sneakers,2,Gritline,9822.39,13119.26,447
+59,VistaCore Gaming Keyboard,1,VistaCore,5261.23,9273.16,224
+60,Pulse Ethnic Saree,2,Pulse,3592.34,6315.43,301
+61,Kraftex Beard Trimmer,6,Kraftex,6451.1,10399.9,401
+62,Pulse Green Tea Pack,4,Pulse,937.4,1324.65,143
+63,Novara Water Bottle,3,Novara,4424.89,6989.34,487
+64,Pulse Denim Jeans,2,Pulse,11796.08,21693.89,141
+65,Gritline Wall Clock,3,Gritline,2033.73,2561.85,164
+66,MaxPro Instant Noodles,4,MaxPro,2175.47,3533.62,321
+67,MaxPro Poetry Collection,7,MaxPro,1178.97,2058.42,393
+68,Bright Home Summer Dress,2,Bright Home,11259.55,18815.02,449
+69,MaxPro Face Mask Pack,6,MaxPro,4942.97,5693.58,396
+70,MaxPro Sneakers,2,MaxPro,9540.87,15961.56,435
+71,Bright Home Ethnic Saree,2,Bright Home,5995.85,11248.79,422
+72,VistaCore Coffee Powder,4,VistaCore,4876.83,6645.63,280
+73,Gritline Vacuum Cleaner,3,Gritline,7305.8,10285.14,349
+74,Nexova Wireless Mouse,1,Nexova,9411.38,16728.98,8
+75,Gritline Scarf,2,Gritline,2411.85,3599.42,490
+76,Novara Children's Story Book,7,Novara,13645.64,24720.59,154
+77,Aurelia Office Chair,3,Aurelia,13155.1,16049.29,184
+78,TrueValue Dumbbell Set,5,TrueValue,9984.41,16341.32,26
+79,Novara Biography,7,Novara,10506.65,13927.7,335
+80,Nexova Sneakers,2,Nexova,66.24,99.86,67
+81,Kraftex Spice Mix Combo,4,Kraftex,6703.75,7749.85,175
+82,EcoLife Belt,2,EcoLife,10425.76,15724.92,117
+83,Novara Self-Help Book,7,Novara,12099.05,14850.39,188
+84,EcoLife Cricket Bat,5,EcoLife,11613.23,19915.16,68
+85,Bright Home Bedsheet Set,3,Bright Home,8471.2,13619.48,84
+86,Novara Soft Toy Bear,8,Novara,3235.18,5536.05,470
+87,Kraftex History Book,7,Kraftex,6663.64,8748.92,459
+88,Pulse Denim Jeans,2,Pulse,1891.2,3210.32,179
+89,Pulse Mystery Thriller,7,Pulse,2140.46,2906.16,43
+90,Solace Spice Mix Combo,4,Solace,9020.12,14483.56,398
+91,Gritline Router,1,Gritline,9893.16,13615.33,265
+92,VistaCore Instant Noodles,4,VistaCore,9710.24,16874.95,406
+93,EcoLife Coffee Powder,4,EcoLife,1735.52,2646.12,304
+94,Aurelia Sports Cap,2,Aurelia,14666.57,27722.19,478
+95,EcoLife Body Lotion,6,EcoLife,12919.17,20364.3,187
+96,MaxPro Study Table,3,MaxPro,14319.07,24740.14,8
+97,VistaCore Men's T-Shirt,2,VistaCore,3275.36,6033,485
+98,VistaCore Comic Book,7,VistaCore,9447.13,14414.31,212
+99,Nexova Poetry Collection,7,Nexova,9626.03,14951.55,78
+100,VistaCore Dumbbell Set,5,VistaCore,1231.37,2266.57,498
+101,TrueValue Dinner Set,3,TrueValue,5891.44,9577.84,427
+102,Novara Leather Wallet,2,Novara,6590.42,12291.6,122
+103,Nexova Laptop Stand,1,Nexova,13873.18,17160.98,313
+104,Kraftex Power Bank,1,Kraftex,11138.32,18996.33,61
+105,UrbanEdge Webcam HD,1,UrbanEdge,10537.42,13412.81,487
+106,Bright Home Nail Polish,6,Bright Home,11755.66,19873.81,85
+107,Novara Body Lotion,6,Novara,11727.8,15850.98,453
+108,Aurelia Ethnic Saree,2,Aurelia,488.88,858.15,139
+109,Novara Leather Wallet,2,Novara,14627.01,23705.26,254
+110,TrueValue Doll House,8,TrueValue,878.81,1577.04,85
+111,VistaCore Body Lotion,6,VistaCore,11611.27,21140.65,345
+112,Novara Running Shoes,2,Novara,7656.93,9058.37,441
+113,Zylo Laptop Stand,1,Zylo,7102.88,10208.5,76
+114,Gritline Blanket,3,Gritline,578.69,1014.06,365
+115,TrueValue Children's Story Book,7,TrueValue,3761.53,6909.52,163
+116,Solace Dumbbell Set,5,Solace,5623.48,8584.41,461
+117,Primo Smartphone,1,Primo,12074.85,22773.9,488
+118,Aurelia Self-Help Book,7,Aurelia,7003.16,9536.41,432
+119,Nexova Cycling Helmet,5,Nexova,8318.72,9616.25,102
+120,Pulse Treadmill,5,Pulse,4593.44,7427.77,237
+121,MaxPro Beard Trimmer,6,MaxPro,14966.92,25921.43,375
+122,Zylo Whole Wheat Atta,4,Zylo,13989.34,16338.61,277
+123,TrueValue Face Wash,6,TrueValue,71.86,118.06,434
+124,Primo Dumbbell Set,5,Primo,7970.73,10590.12,251
+125,Novara Smartphone,1,Novara,4233.39,5007.78,118
+126,MaxPro Mystery Thriller,7,MaxPro,14619.59,17743.46,48
+127,Gritline Air Purifier,3,Gritline,5945.55,9476.74,31
+128,Primo Cookbook,7,Primo,4410.56,7886.9,474
+129,TrueValue Mystery Thriller,7,TrueValue,6818.73,9036.24,483
+130,Pulse Whole Wheat Atta,4,Pulse,11563.69,14243.34,54
+131,MaxPro Cushion Cover,3,MaxPro,4744.8,5886.17,183
+132,VistaCore Coffee Powder,4,VistaCore,6977.03,12484.43,46
+133,Kraftex Study Table,3,Kraftex,4598.01,7717.89,308
+134,Gritline Laptop Stand,1,Gritline,12855.77,16214.25,364
+135,EcoLife Honey Jar,4,EcoLife,7726.22,12809.2,133
+136,EcoLife Non-stick Pan,3,EcoLife,12826.29,20098.35,281
+137,MaxPro Cooking Oil 1L,4,MaxPro,1573.51,2746.34,62
+138,Gritline Wireless Mouse,1,Gritline,11725.35,15438.96,101
+139,Kraftex Mystery Thriller,7,Kraftex,9472.95,15474.19,298
+140,Zylo Dumbbell Set,5,Zylo,14957.56,19419.59,330
+141,Nexova Board Game,8,Nexova,13580.92,24065.62,169
+142,MaxPro Men's T-Shirt,2,MaxPro,807.03,1487.44,221
+143,Zylo Business Strategy Book,7,Zylo,5771.81,8484.55,181
+144,VistaCore Whole Wheat Atta,4,VistaCore,4233.83,7674.1,17
+145,MaxPro Almonds 500g,4,MaxPro,6209.28,9705.21,31
+146,EcoLife Leather Wallet,2,EcoLife,2101.68,2731.33,452
+147,Pulse Spice Mix Combo,4,Pulse,341.97,491.37,365
+148,Bright Home Face Mask Pack,6,Bright Home,11732.45,16519.59,289
+149,VistaCore Hair Serum,6,VistaCore,2738.25,3803.86,112
+150,Pulse Tablet,1,Pulse,11689.15,13956.18,241
+151,Primo Beard Trimmer,6,Primo,14611,17899.95,336
+152,Bright Home Almonds 500g,4,Bright Home,12253.46,22521.18,28
+153,Gritline Breakfast Cereal,4,Gritline,14740.84,21246.22,478
+154,Primo Table Lamp,3,Primo,8908.17,15630.79,357
+155,Zylo Beard Trimmer,6,Zylo,10566.62,14938.68,290
+156,Primo Vacuum Cleaner,3,Primo,12558.62,22075.55,496
+157,VistaCore Doll House,8,VistaCore,2674.57,3151.91,28
+158,Primo Breakfast Cereal,4,Primo,347.92,524.83,169
+159,TrueValue Whole Wheat Atta,4,TrueValue,10768.22,19803.68,432
+160,Zylo Face Wash,6,Zylo,2258.29,3790.59,72
+161,Bright Home Belt,2,Bright Home,12917.01,24160.22,191
+162,Nexova History Book,7,Nexova,5081.59,7073.33,499
+163,EcoLife Wall Clock,3,EcoLife,11888.05,22236.56,332
+164,Novara Body Lotion,6,Novara,14532.71,24272.1,475
+165,Kraftex Lipstick,6,Kraftex,8854.8,11347.55,157
+166,UrbanEdge Cricket Bat,5,UrbanEdge,10946.02,20377.01,485
+167,Zylo History Book,7,Zylo,2772.12,3849.54,414
+168,Nexova Breakfast Cereal,4,Nexova,14053.48,17643.9,381
+169,TrueValue Running Shoes,2,TrueValue,14736.58,18802.63,453
+170,Novara Belt,2,Novara,10066.87,17083.12,171
+171,VistaCore Building Blocks Set,8,VistaCore,3184.78,5318.21,179
+172,Novara Dumbbell Set,5,Novara,69.15,99.54,375
+173,Aurelia Cookbook,7,Aurelia,6239.59,11301.94,179
+174,Gritline Self-Help Book,7,Gritline,7218.36,12978.89,333
+175,MaxPro Whole Wheat Atta,4,MaxPro,1151.96,2055.47,150
+176,VistaCore Smartwatch,1,VistaCore,14277.35,17213.49,87
+177,Novara Cookbook,7,Novara,1171.29,2174.35,500
+178,Solace Formal Shirt,2,Solace,14779.88,26898.19,360
+179,Kraftex USB-C Cable,1,Kraftex,2516.71,4573.65,80
+180,TrueValue Bluetooth Headphones,1,TrueValue,3122.98,4036.41,356
+181,VistaCore Resistance Bands,5,VistaCore,3601.35,4275.62,292
+182,Zylo Board Game,8,Zylo,5444.39,8007.09,150
+183,Nexova Puzzle 1000pc,8,Nexova,434.75,555.66,149
+184,Gritline Winter Jacket,2,Gritline,1776.86,3089.35,241
+185,Nexova Action Figure,8,Nexova,9645.9,13896.32,189
+186,UrbanEdge Mystery Thriller,7,UrbanEdge,6714.34,9047.38,238
+187,Gritline Football,5,Gritline,4065,4862.67,385
+188,Kraftex Women's Kurta,2,Kraftex,5189.68,8075.59,497
+189,Zylo Spice Mix Combo,4,Zylo,12619.92,22259.06,214
+190,Aurelia Educational Kit,8,Aurelia,3572.85,4909.59,202
+191,Solace LED Monitor,1,Solace,13511.8,23650.21,346
+192,Pulse Bedsheet Set,3,Pulse,6763.14,12591.59,85
+193,UrbanEdge Green Tea Pack,4,UrbanEdge,688,831.64,349
+194,Gritline Children's Story Book,7,Gritline,9427.03,16738.46,132
+195,Nexova Shampoo Bottle,6,Nexova,5852.08,8473.91,166
+196,MaxPro Gym Gloves,5,MaxPro,13761.57,15953.41,358
+197,EcoLife Self-Help Book,7,EcoLife,2287.15,3602.14,298
+198,Nexova Scarf,2,Nexova,8462.12,10372.38,146
+199,VistaCore Hair Serum,6,VistaCore,5776.5,8746.71,311
+200,UrbanEdge Building Blocks Set,8,UrbanEdge,4167.44,5242.18,311
+201,EcoLife Fiction Novel,7,EcoLife,13349.13,18670.37,121
+202,MaxPro Webcam HD,1,MaxPro,13816.48,25184.31,10
+203,VistaCore Perfume Spray,6,VistaCore,4241.18,6441.14,356
+204,Primo Belt,2,Primo,2059.06,3872.4,226
+205,Novara Perfume Spray,6,Novara,6280.75,10263.79,96
+206,Aurelia Puzzle 1000pc,8,Aurelia,12368.34,21096.78,388
+207,Bright Home Face Wash,6,Bright Home,11882.78,14249.98,363
+208,Pulse Cookbook,7,Pulse,12776.87,23119.74,14
+209,Aurelia Storage Rack,3,Aurelia,12502.3,22225.75,127
+210,Zylo Gaming Keyboard,1,Zylo,13774.56,23120.26,140
+211,Bright Home Face Mask Pack,6,Bright Home,5984.29,11024.89,348
+212,TrueValue Laptop Stand,1,TrueValue,7357.36,10922.57,491
+213,Bright Home Educational Kit,8,Bright Home,5278.91,6718.13,457
+214,VistaCore Dumbbell Set,5,VistaCore,460.38,546.58,437
+215,Kraftex Green Tea Pack,4,Kraftex,3415.43,4457.3,333
+216,Zylo Comic Book,7,Zylo,12976.22,24335,349
+217,Aurelia Gaming Keyboard,1,Aurelia,2028.1,2595.77,410
+218,VistaCore Laptop Stand,1,VistaCore,9144.74,16984.1,364
+219,Aurelia Skipping Rope,5,Aurelia,5678.31,8015.12,129
+220,VistaCore Coffee Powder,4,VistaCore,10174.08,17990.15,203
+221,Bright Home Men's T-Shirt,2,Bright Home,14991.47,28106.97,429
+222,Kraftex Nail Polish,6,Kraftex,8926.9,12158.51,350
+223,Nexova Winter Jacket,2,Nexova,5077.44,6891.93,166
+224,Kraftex Resistance Bands,5,Kraftex,10680.85,19431.46,152
+225,Bright Home Whole Wheat Atta,4,Bright Home,11493.84,20973.56,412
+226,Kraftex Mystery Thriller,7,Kraftex,2141.95,2504.14,254
+227,Aurelia Resistance Bands,5,Aurelia,6307.56,9090.49,18
+228,Novara Honey Jar,4,Novara,10714.87,17837.46,326
+229,Bright Home Soft Toy Bear,8,Bright Home,4537.91,5797.13,336
+230,Nexova Mixer Grinder,3,Nexova,7088.17,12090.21,371
+231,Aurelia Air Purifier,3,Aurelia,5067.71,6167.28,181
+232,EcoLife Almonds 500g,4,EcoLife,11831.95,16546.84,133
+233,Gritline Badminton Racket,5,Gritline,1810.83,2155.35,324
+234,Aurelia Winter Jacket,2,Aurelia,2958.43,3668.04,348
+235,VistaCore Comic Book,7,VistaCore,6225.95,11226.24,77
+236,TrueValue Storage Rack,3,TrueValue,6167.42,9726.35,464
+237,TrueValue Board Game,8,TrueValue,12942.79,16634.95,41
+238,Kraftex Soft Toy Bear,8,Kraftex,14800.27,20499.27,29
+239,VistaCore Gaming Keyboard,1,VistaCore,3180.27,5502.37,295
+240,Pulse Cushion Cover,3,Pulse,11465.36,13942.23,314
