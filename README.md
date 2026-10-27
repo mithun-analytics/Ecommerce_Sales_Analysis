@@ -37,7 +37,6 @@ The project contains six relational tables representing customers, products, ord
 | Order_Items | Approximately 15,000 | Products, quantities, unit prices, and discounts per order |
 | Payments | 5,000 | Payment methods, statuses, and amounts |
 
-*Row counts are expected dataset sizes and should be updated if the final imported data differs.*
 
 ### Table Relationships
 
@@ -81,7 +80,6 @@ Ecommerce_SQL_Portfolio/
     └── Business_Insights.md
 ```
 
-*Create the additional files only when they exist in your repository. Remove any unused entries or adjust the structure to match your final project.*
 
 ## SQL Concepts Demonstrated
 
